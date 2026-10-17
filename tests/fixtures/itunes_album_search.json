@@ -1,0 +1,10 @@
+{
+    "resultCount": 1,
+    "results": [
+        {
+            "artistName": "Artista Fixture",
+            "collectionName": "Album Fixture",
+            "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/example/100x100bb.jpg"
+        }
+    ]
+}
