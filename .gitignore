@@ -16,3 +16,8 @@ client_secret*.json
 token.json
 .claude/
 registro_auto.txt
+
+# Seguranca - auditoria automatica
+credentials.*
+*.p12
+*.pfx
